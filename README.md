@@ -43,7 +43,7 @@ Mazes should be text files with the following characters:
 - **DFS**: Uses a stack-based approach, may not find the shortest path
 - **BFS**: Uses a queue-based approach, guarantees the shortest path
 
-## Example Output
+## Sample Input
 ```
 ####B###
 #     #

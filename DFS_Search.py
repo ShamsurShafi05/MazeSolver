@@ -1,5 +1,5 @@
 from Maze_Generator import MazeGenerator
-from Utility import print_maze_with_path, reconstruct_path
+from Utility_Functions import print_maze_with_path, reconstruct_path
 import random
 
 class StackFrontier:
